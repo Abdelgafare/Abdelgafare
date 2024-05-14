@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Abdelghafare.
+
 - 👀 I’m interested in data science and machine learning.
 -🌱 I’m currently learning about LSTM and GRU models.
 -💞️ I’m looking to collaborate on projects related to time series analysis mv and classification models.
